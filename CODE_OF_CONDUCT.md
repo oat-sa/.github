@@ -1,4 +1,4 @@
-# Code of Conduct - TAO community package
+# Code of Conduct - TAO Community
 
 ## Our Pledge
 
